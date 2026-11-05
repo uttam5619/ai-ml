@@ -14,6 +14,8 @@
 
 
 ## Simple agent with tool call
+The simple agent has 4 tools to perform arithmetic operations. Using those tools we are making tool calls and having the conversation with agent.
+
 
 ## ReAct Agent
 
