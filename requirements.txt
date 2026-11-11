@@ -2,11 +2,13 @@ langchain
 langchain-community
 langchain-core
 langchain-openai
+langchain-tavily
 
 langgraph
 langsmith
 
 python-dotenv
+
 
 ipykernel
 pydantic
